@@ -1,3 +1,0 @@
-This is the first version 1.0 of my project
-i want whatever changes i done must be implemented in commit 2
-I LOVE YOU CAPGEMINI
